@@ -1,0 +1,85 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+#container {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 30px;
+}
+#container #contact {
+    width: 732px;
+    height: 657px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 12px 15px;
+    border-style: solid;
+    border-color: #eeeeee;
+
+}
+#container #contact #full_text {
+    width: 670px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+#container #contact h1.big_title {
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+#container #contact #fullname {
+    background-color: #eeeeee;
+    height: 67px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+
+}
+
+#container #contact #email_phone {
+
+
+    display: flex;
+    height: 67px;
+    margin-top: 16px;
+
+}
+#container #contact #email_phone .email {
+    width: 318px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin-right: 15px;
+    background: #eeeeee;
+}
+#container #contact #email_phone .phone {
+    width: 318px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin-left: 15px;
+    background: #eeeeee;
+}
+
+#container #contact #service {
+    background-color: #eeeeee;
+    height: 67px;
+    margin-top: 16px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+}
+#container #contact #message {
+    background-color: white;
+    margin-top: 16px;
+    height: 128px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+}
+#container #contact #button {
+    margin-top: 32px;
+    height: 38px;
+    background: black;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
